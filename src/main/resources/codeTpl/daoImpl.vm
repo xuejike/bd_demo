@@ -3,7 +3,8 @@ package ${packName};
 import ${classPackName};
 
 import  com.bidanet.bdcms.dao.${className}Dao;
-
+import com.bidanet.bdcms.core.dao.Dao;
+import com.bidanet.bdcms.core.dao.impl.BaseDaoImpl;
 import org.springframework.stereotype.Repository;
 
 /**

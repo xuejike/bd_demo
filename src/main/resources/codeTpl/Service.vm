@@ -1,6 +1,7 @@
 package ${packName};
 
 import ${classPackName};
+import com.bidanet.bdcms.core.service.Service;
 
 /**
 *

@@ -1,12 +1,15 @@
 package com.bidanet.bdcms.service.impl;
 
-import com.bidanet.bdcms.dao.Dao;
+
 import com.bidanet.bdcms.dao.${className}Dao;
 import com.bidanet.bdcms.entity.${className};
 import com.bidanet.bdcms.service.${className}Service;
-
+import com.bidanet.bdcms.core.service.impl.BaseServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import com.bidanet.bdcms.core.dao.Dao;
+import com.bidanet.bdcms.core.service.impl.BaseServiceImpl;
+
 
 
 
